@@ -136,8 +136,7 @@ form > div> select{
     .newUser > div{
         flex-direction: column;
     }
-   
-
-   
-
+   .usersBox > div > h3{
+       margin-bottom: 0;
+   }
 } 
